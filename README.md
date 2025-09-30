@@ -3,9 +3,9 @@
 I am a passionate **Computer Science student** at **Ecole Supérieure en Informatique Sidi-Bel-Abbès**. I have a strong foundation in **Android Development** using **Kotlin** and am currently diving into **web development** with **React** to build interactive and dynamic websites.
 
 ## 🚀 Skills & Technologies
-- **Programming Languages**: Kotlin, JavaScript
-- **Frameworks & Libraries**: React, Android SDK
-- **Web Development**: HTML, CSS, JavaScript, React
+- **Programming Languages**: Kotlin, JavaScript, php
+- **Frameworks & Libraries**: React, Android SDK, Laravel
+- **Web Development**: HTML, CSS, JavaScript, React, Blade
 - **Mobile Development**: Android, Kotlin
 - **Tools**: Git, Visual Studio Code, Android Studio
 
